@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.suggestionList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.suggestionItem {
+  font-size: 32px;
+  font-family: 'Roboto';
+}

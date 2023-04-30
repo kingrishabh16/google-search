@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.google {
+  height: 100px;
+}
+.searchItemList {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.searchCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.searchIcon {
+  height: 20px;
+  width: 20px;
+}
